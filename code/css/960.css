@@ -608,7 +608,7 @@ body {
 
 /* http://sonspring.com/journal/clearing-floats */
 
-.clear {
+.gs-clear {
   clear: both;
   display: block;
   overflow: hidden;
